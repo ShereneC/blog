@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ShereneC.github.io/blogsitemap.xml
